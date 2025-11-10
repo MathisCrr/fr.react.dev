@@ -809,7 +809,7 @@ En appelant la fonction `set` depuis un gestionnaire `onClick`, vous demandez à
 
 Chaque `Square` a son propre état : la `value` stockée par chaque `Square` est totalement indépendante des autres. Lorsque vous appelez la fonction `set` dans un composant, React met automatiquement à jour ses composants enfants aussi.
 
-Après que vous aurez fait les modifications ci-dessus, votre code devrait ressembler à ceci :
+Après avoir fait les modifications ci-dessus, votre code devrait ressembler à ceci :
 
 <Sandpack>
 
